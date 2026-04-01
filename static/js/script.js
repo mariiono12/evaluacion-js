@@ -1,8 +1,6 @@
-console.log("conectando");
-function filaPacientes = [];
-function logicaFila(nombre, prioridad) {
-    if
-}
+function agregarPaciente(tipo) {
+    let input = document.getElementById("inputPaciente");
+    
 
  
 
